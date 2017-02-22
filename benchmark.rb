@@ -1,1 +1,3 @@
 require savon
+
+print diff
